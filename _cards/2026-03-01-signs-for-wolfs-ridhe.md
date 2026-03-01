@@ -1,4 +1,4 @@
 ---
 name: Info / Wolfs Ridge
-title: Signs for Wolfs Ridhe
+title: Signs for Wolfs Ridge
 ---

@@ -3,7 +3,7 @@ media:
   output: /assets
   categories: [ "image" ]
 content:
-  - name: Projects
+  - name: projects
     label: Projects
     type: collection
     path: _projects
@@ -14,8 +14,8 @@ content:
       - { name: excerpt, label: Excerpt, type: string }
       - { name: coverImage, label: Cover image, type: image }
       - { name: date, label: Date, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
-      - name: author
-        label: Author
+      - name: services
+        label: Services
         type: object
         fields:
           - { name: name, label: Name, type: string }
